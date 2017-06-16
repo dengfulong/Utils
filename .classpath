@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_75"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/build/zlbCommon.jar" sourcepath="/zlbCommon"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/zlbCommon/lib/xmemcached-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/axis2-1.6.2/lib/axiom-api-1.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/axis2-1.6.2/lib/axis2-adb-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/axis2-1.6.2/lib/axis2-kernel-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
